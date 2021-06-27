@@ -1,4 +1,4 @@
-Implementing code to solve a vehicle routing problem with muliple constraints:
+Implementing code to solve a vehicle routing problem with multiple constraints:
 - time windows/ time break
 - capacity constraints
 - multitrips
