@@ -5,4 +5,4 @@ Implementing code to solve a vehicle routing problem with multiple constraints:
 - vehicles/nodes relations
 - route by area
 ...
-Using google or-tools solver
+- Using google or-tools solver
